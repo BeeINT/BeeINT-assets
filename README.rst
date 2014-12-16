@@ -10,9 +10,7 @@ Logo
 PNG:
 
 .. image:: https://raw.githubusercontent.com/BeeINT/beeint-assets/master/logo.png
-   :width: 50%
 
 SVG:
 
-.. image:: https://raw.githubusercontent.com/BeeINT/beeint-assets/master/logo.svg 
-   :width: 50%
+.. image:: https://raw.githubusercontent.com/BeeINT/beeint-assets/master/logo.svg?
