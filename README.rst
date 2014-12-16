@@ -4,7 +4,8 @@ BeeInt Assets
 These are the Assets
 
 
-.. image:: picture.jpeg
+.. image:: https://raw.githubusercontent.com/BeeINT/beeint-assets/master/logo.png
+   width: 100%
 
-
-.. image:: picture.jpeg 
+.. image:: https://raw.githubusercontent.com/BeeINT/beeint-assets/master/logo.png 
+   width: 100%
